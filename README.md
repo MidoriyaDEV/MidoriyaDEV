@@ -19,8 +19,8 @@
 ## **📚 GitHub Status**
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MidoriyaDEV&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=00000000&theme=dark"/>
-  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MidoriyaDEV&layout=compact&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=00000000&theme=dark"/>
+  <img width="47%"  height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MidoriyaDEV&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
+  <img width="47%"  height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MidoriyaDEV&layout=compact&show_icons=true&include_all_commits=true&count_private=true&title_color=F7EF8A&icon_color=F7EF8A&text_color=E0AA3E&bg_color=ffffff00"/>
 </div>
 
 ## :briefcase: Contact me
