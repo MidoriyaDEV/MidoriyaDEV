@@ -1,6 +1,6 @@
 ## Olá! Eu sou Victor Nascimento, Desenvolvedor Back-end
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Studying python and java scrypt
 - 🌱 Bacharelando em Ciências e tecnologias / estudando python
 - 😄 Pronome: ele/dele
 
