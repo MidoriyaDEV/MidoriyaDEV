@@ -1,4 +1,4 @@
-## Olá! Eu sou Victor Nascimento, Desenvolvedor Back-end
+## Olá! Eu sou Victor Nascimento
 
 - 🔭 Aprendendo Python e java scrypt
 - 🌱 Bacharelando em Ciências e tecnologias (UFRN)
