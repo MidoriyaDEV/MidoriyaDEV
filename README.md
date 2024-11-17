@@ -1,10 +1,10 @@
-## Olá! Eu sou Victor Nascimento
+## Hello! I am Victor Nascimento
 
-- 🔭 Aprendendo Python e java scrypt
-- 🌱 Bacharelando em Ciências e tecnologias (UFRN)
-- 😄 Pronome: ele/dele
+- 🔭 Learning Python and Java Scrypt
+- 🌱 Bachelor of Science and Technology (UFRN)
+- 😄 Pronoun: he/him
 ## **SKILLS**
-- 💻 **Linguagens de Programação:**
+- 💻 **Programming Languages:**
      <div style="display: inline_block"><br>
         <img align="center" alt="Midoriya-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="Midoriya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
           
 </div>
 
-- 🛠️ **Tecnologias e Ferramentas:**
+- 🛠️ **Technologies and Tools:**
     <div style="display: inline_block"><br>
         <img align="center" alt="Midoriya-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
         <img align="center" alt="Midoriya-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original-wordmark.svg">
